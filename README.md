@@ -14,3 +14,7 @@ google Fonts
 iconstore.co
 
 colorhunt.co
+
+OpenGraph Facebook
+
+Twitter Cards
